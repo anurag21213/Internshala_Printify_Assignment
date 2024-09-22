@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import NavContext from './navContext'
+import NavContext from './NavContext'
 
 const NavContextProvider = ({children}) => {
   const [open,setOpen]=useState(false)
