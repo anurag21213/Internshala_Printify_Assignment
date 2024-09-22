@@ -28,7 +28,7 @@ const Hero = () => {
 
     return (
         
-        <div className='flex items-center justify-evenly flex-wrap p-20'>
+        <div className='flex items-center justify-center md:justify-evenly flex-wrap lg:flex-nowrap p-20'>
             <div className='h-full flex justify-center items-center  '>
                 <div className='w-full md:w-[70%]'>
                     <h1 className='text-black text-6xl font-bold'>Create and sell custom products</h1>
