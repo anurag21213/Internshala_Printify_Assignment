@@ -1,5 +1,5 @@
 import React, { useContext } from 'react'
-import NavContext from '../contextAPI/NavContext/navContext'
+import NavContext from '../contextAPI/NavContext/NavContext'
 import { motion } from 'framer-motion'
 
 const MobileNav = () => {
